@@ -1,2 +1,2 @@
-git commit -m "I uncommented line 2"
+git commit -m "Tutorial complete"
 git push
